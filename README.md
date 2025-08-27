@@ -1,2 +1,2 @@
-# strats
-different trading strategies
+# first kaggle project 
+This is my first kaggle project
