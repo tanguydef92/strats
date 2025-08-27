@@ -1,0 +1,2 @@
+# strats
+different trading strategies
